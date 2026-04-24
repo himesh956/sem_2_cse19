@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .counter {
   font-size: 16px;
   padding: 5px 10px;
@@ -182,3 +183,12 @@
     border-right-color: var(--border);
   }
 }
+=======
+.main {
+    border:5px solid black;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(231, 229, 224);
+    padding : 20px;
+}
+>>>>>>> 377fd37684c30d13bfbb7e084dcb49dc8af27e9d
